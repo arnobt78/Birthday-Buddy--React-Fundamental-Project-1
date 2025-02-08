@@ -56,15 +56,15 @@ The data is imported from data.js, which contains an array of objects representi
 
 ## Project Detail Steps
 
-#### Import Data
+### Import Data
 
 In App.jsx, import the data (from data.js) to be rendered as an array of objects. Each object should represent a person and contain properties such as name, age, and image URL.
 
-#### Setup State Variable
+### Setup State Variable
 
 Then, set up the data as a state variable using the useState hook. This will allow the data to be modified and have those changes automatically reflected in the rendered output.
 
-#### Iterate and Render
+### Iterate and Render
 
 Display the number of items in the list by using the length property of the state variable. This information can be displayed using plain text or added to a message or heading element.
 
@@ -74,7 +74,7 @@ Create a List component to hold the rendered items. This component can be a simp
 
 Create a Person component to render the information for each person. This component should receive the person data as props and render the image, name, and age information.
 
-#### Clear List
+### Clear List
 
 In App.jsx, add a button to clear the list, and set up the functionality by defining a function that resets the state variable to an empty array.
 
