@@ -1,8 +1,11 @@
+
+<img width="628" alt="Screenshot 2025-02-09 at 01 33 36" src="https://github.com/user-attachments/assets/98614497-6519-4a6e-adea-d18e95c81052" />
+
 ## Birthday Buddy - React Fundamental Project 1
 
 Birthday Buddy is a simple React application that displays a list of people with their birthdays. Users can view the list of people and clear the list with a button click.
 
-** Online Live:**
+** Online Live:** https://birthday-buddy-arnob.netlify.app/
 
 ## Getting Started
 
