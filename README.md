@@ -10,7 +10,7 @@
 
 The project is simple yet powerful as a teaching aid and a starting point for more complex React applications.
 
-- **Live-Demo:** [Birthday Buddy Live](https://birthday-buddy-arnob.netlify.app/)
+- **Live-Demo:** [https://birthday-buddy-arnob.netlify.app/](https://birthday-buddy-arnob.netlify.app/)
 
 ---
 
